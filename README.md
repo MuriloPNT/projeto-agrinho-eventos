@@ -1,6 +1,6 @@
 Seus Eventos:
 
-O aplicativo (Seus Eventos) é um aplicativo web simples e intuitivo projetado para mantê-lo informado sobre os acontecimentos em sua cidade e comunidades vizinhas. Nunca mais perca um evento interessante!
+O aplicativo (Seus Eventos) é um aplicativo web simples e intuitivo projetado para mantê-lo informado sobre os acontecimentos em sua cidade e cidades vizinhas. Nunca mais perca um evento interessante!
 
 Funcionalidades:
 
