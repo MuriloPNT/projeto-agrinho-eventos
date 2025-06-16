@@ -19,6 +19,7 @@ CSS (style.css): Para estilização e design, garantindo uma aparência agradáv
 JavaScript (script.js): Para a lógica interativa, manipulação de dados e funcionalidades dinâmicas.
 O projeto foi desenvolvido no VS Code, um editor de código-fonte leve e poderoso.
 
-Desenvolvedor
+Desenvolvedor:
+
 Este projeto foi criado e desenvolvido individualmente por Murilo Pinto.
 
