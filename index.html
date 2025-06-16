@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eventos Comunitários da CANTU</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Eventos na Região da CANTU</h1>
+        <nav>
+            <ul id="city-nav">
+                </ul>
+        </nav>
+        <nav>
+            <ul id="community-nav">
+                </ul>
+        </nav>
+    </header>
+
+    <main id="event-list">
+        <p class="no-events-message" style="display: none;">Selecione uma cidade e uma comunidade para ver os eventos.</p>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Eventos Comunitários da CANTU. Todos os direitos reservados.</p>
+    </footer>
+
+    <div id="event-details-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-button">&times;</span>
+            <h2 id="modal-title"></h2>
+            <p><strong>Cidade:</strong> <span id="modal-city"></span></p> <p><strong>Comunidade:</strong> <span id="modal-community"></span></p>
+            <p><strong>Data:</strong> <span id="modal-date"></span></p>
+            <p><strong>Hora:</strong> <span id="modal-time"></span></p>
+            <p><strong>Local:</strong> <span id="modal-location"></span></p>
+            <p><strong>Descrição:</strong> <span id="modal-description"></span></p>
+            <hr>
+            <p><strong>Valor da Entrada:</strong> <span id="modal-entry-fee"></span></p>
+            <p><strong>Preço Médio de Comidas:</strong> <span id="modal-food-price"></span></p>
+            <p><strong>Preço Médio de Bebidas:</strong> <span id="modal-drink-price"></span></p>
+            <p><strong>Roupa a Caráter:</strong> <span id="modal-dress-code"></span></p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
