@@ -1,11 +1,17 @@
-Seus Eventos
+Seus Eventos:
+
 O aplicativo (Seus Eventos) é um aplicativo web simples e intuitivo projetado para mantê-lo informado sobre os acontecimentos em sua cidade e comunidades vizinhas. Nunca mais perca um evento interessante!
 
-Funcionalidades
+Funcionalidades:
+
 Listagem de Eventos: Visualize eventos próximos de forma clara e organizada.
+
 Notificações: Receba alertas sobre novos eventos ou lembretes de eventos que você marcou como interesse. (Esta funcionalidade pode ser implementada de forma mais robusta no futuro, como notificações push ou integração com calendário).
+
 Fácil de Usar: Uma interface limpa e amigável para uma experiência de usuário tranquila.
-Tecnologias Utilizadas
+
+Tecnologias Utilizadas:
+
 O desenvolvimento de "Seus Eventos" foi feito utilizando as seguintes tecnologias web fundamentais:
 
 HTML (index.html): Para a estrutura e conteúdo principal da aplicação.
